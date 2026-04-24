@@ -1,0 +1,18 @@
+[
+  {
+    "id": "uuid-001",
+    "name": "Noto Sans TC",
+    "category": "Sans-serif",
+    "source_url": "https://github.com/googlefonts/noto-cjk/releases",
+    "preview_url": "https://raw.githubusercontent.com/clshk/fontmate-data/main/previews/uuid-001-bw.png",
+    "license": "OFL"
+  },
+  {
+    "id": "uuid-002",
+    "name": "Playfair Display",
+    "category": "Serif",
+    "source_url": "https://github.com/clauseggers/Playfair",
+    "preview_url": "https://raw.githubusercontent.com/clshk/fontmate-data/main/previews/uuid-001-bw.png",
+    "license": "OFL"
+  }
+]
