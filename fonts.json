@@ -22,5 +22,13 @@
     "source_url": "https://github.com/Chenyu-otf/chenyuluoyan_thin/releases",
     "preview_url": "https://clshk.github.io/fontmate-data/previews/uuid-001-bw.png",
     "license": "OFL"
+  },
+  {
+    "id": "uuid-004",
+    "name": "香蕉滑倒字（バナナスリップ）",
+    "category": "Monospace",
+    "source_url": "https://ymnk-design.com/%e3%83%90%e3%83%8a%e3%83%8a%e3%82%b9%e3%83%aa%e3%83%83%e3%83%97/",
+    "preview_url": "https://clshk.github.io/fontmate-data/previews/uuid-001-bw.png",
+    "license": "OFL"
   }
 ]
