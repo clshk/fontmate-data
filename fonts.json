@@ -5,7 +5,8 @@
     "category": "Sans-serif",
     "source_url": "https://github.com/googlefonts/noto-cjk/releases",
     "preview_url": "https://clshk.github.io/fontmate-data/previews/uuid-001-bw.png",
-    "license": "OFL"
+    "license": "OFL",
+    "guide_image_url": "https://clshk.github.io/fontmate-data/guides/noto-sans-tc-guide.png"
   },
   {
     "id": "uuid-002",
