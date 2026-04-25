@@ -1,0 +1,5 @@
+[
+  { "id": "Sans-serif", "order": 1 },
+  { "id": "Serif",      "order": 2 },
+  { "id": "Monospace",  "order": 3 }
+]
