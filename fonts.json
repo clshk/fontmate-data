@@ -4,7 +4,7 @@
     "name": "Noto Sans TC",
     "category": "Sans-serif",
     "source_url": "https://github.com/googlefonts/noto-cjk/releases",
-    "preview_url": "https://raw.githubusercontent.com/clshk/fontmate-data/main/previews/uuid-001-bw.png",
+    "preview_url": "https://clshk.github.io/fontmate-data/previews/uuid-001-bw.png",
     "license": "OFL"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Playfair Display",
     "category": "Serif",
     "source_url": "https://github.com/clauseggers/Playfair",
-    "preview_url": "https://raw.githubusercontent.com/clshk/fontmate-data/main/previews/uuid-001-bw.png",
+    "preview_url": "https://clshk.github.io/fontmate-data/previews/uuid-001-bw.png",
     "license": "OFL"
   },
   {
@@ -20,7 +20,7 @@
     "name": "辰宇落雁體",
     "category": "Monospace",
     "source_url": "https://github.com/Chenyu-otf/chenyuluoyan_thin/releases",
-    "preview_url": "https://raw.githubusercontent.com/clshk/fontmate-data/main/previews/uuid-001-bw.png",
+    "preview_url": "https://clshk.github.io/fontmate-data/previews/uuid-001-bw.png",
     "license": "OFL"
   }
 ]
