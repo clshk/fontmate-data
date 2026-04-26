@@ -1,0 +1,14 @@
+{
+  "id": "noto-sans-tc",
+  "description": "Noto Sans TC 是 Google 為繁體中文設計的無襯線字體，覆蓋超過 17,000 個漢字，適合正文與介面使用。",
+  "preview_image_urls": [
+    "https://raw.githubusercontent.com/clshk/fontmate-data/main/previews/uuid-001-bw.png",
+    "https://raw.githubusercontent.com/clshk/fontmate-data/main/previews/uuid-001-bw.png"
+  ],
+  "supported_languages": ["繁體中文", "簡體中文", "日文", "韓文", "Latin"],
+  "manufacturer": "Google LLC",
+  "designer": "Google Fonts Team",
+  "designer_website": "https://fonts.google.com",
+  "vendor_website": "https://fonts.google.com/noto/specimen/Noto+Sans+TC",
+  "copyright": "Copyright 2022 Google LLC. All Rights Reserved."
+}
